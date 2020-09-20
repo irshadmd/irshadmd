@@ -2,7 +2,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=irshadmd&label=Profile Views&color=blue&style=plastic" alt="irshadmd" /> 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Md%20Irshad-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/md-irshad-940aa1141/)](https://www.linkedin.com/in/md-irshad-940aa1141/) 
-[![Gmail Badge](https://img.shields.io/badge/irshadmd039@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:irshadmd039@gmail.com)](mailto:irshadmd039@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/irshadmd039@gmail.com-D02B07?style=flat-square&logo=Gmail&logoColor=white&link=mailto:irshadmd039@gmail.com)](mailto:irshadmd039@gmail.com)
 
 
 > I create successful websites and systems on the web, fast, simple and easy to use. I just love what I do.❤️
