@@ -1,4 +1,4 @@
-### Hey 👋,
+### Hey! 👋
 <img align="right" src="https://komarev.com/ghpvc/?username=irshadmd&label=Profile Views&color=blue&style=plastic" alt="irshadmd" /> 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Md%20Irshad-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/md-irshad-940aa1141/)](https://www.linkedin.com/in/md-irshad-940aa1141/) 
@@ -21,3 +21,4 @@ Things I like to do:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/320px-React-icon.svg.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
